@@ -8,6 +8,7 @@ This project documents a personal cloud-based identity and access management (IA
 - Configure Self-Service Password Reset (SSPR)
 - Add and configure an enterprise application (Google Cloud) using SSO
 - Monitor sign-in activity via audit logs
+- Set custom branding for all users
 
 ## Prerequisites
 
@@ -58,3 +59,8 @@ This project documents a personal cloud-based identity and access management (IA
 ### 4. Activity Logs
 - Viewed and interpreted sign-in logs
 - Confirmed MFA challenges were successfully triggered
+
+## 🧠 Lessons Learned (Tips & Tricks)
+- **Start with users and groups before configuring apps** Organizing users early makes app assignment and testing much smoother.
+- **Group-based assignments are cleaner than per-user** It’s easier to manage access and test policies when apps are tied to groups instead of individual users.
+- **Bulk user creation saves a lot of time** Uploading a CSV file through the Azure portal made it much faster to create multiple test users.
