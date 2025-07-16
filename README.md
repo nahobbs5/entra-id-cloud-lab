@@ -50,6 +50,10 @@ This project documents a personal cloud-based identity and access management (IA
 - Assigned access to selected users
 
   ![Google Cloud Enterprise App](screenshots/EnterpriseApps.png)
+  
+  ---
+  
+  ![Google Cloud Users](screenshots/GoogleCloudUsers.png)
 
 ### 4. Activity Logs
 - Viewed and interpreted sign-in logs
