@@ -20,6 +20,13 @@ This project documents a personal cloud-based identity and access management (IA
 ### 1. User & Group Management
 - Created 5 users and 3 groups using the Azure portal
 - Assigned users to appropriate groups for future app access control
+
+  ![Users List](screenshots/UsersList.png)
+  ![Group List](screenshots/GroupList.png)
+  ![Internal Employees](screenshots/InternalEmployees.png)
+  ![External Contractor Group](screenshots/ExternalContractorGroup.png)
+  ![IT Support](screenshots/ITSupportMembers.png)
+  
   
 ### 2. Multi-Factor Authentication (MFA)
 - Enabled Security Defaults to enforce MFA
