@@ -49,6 +49,8 @@ This project documents a personal cloud-based identity and access management (IA
 - Configured Single Sign-On using default settings
 - Assigned access to selected users
 
+  ![Google Cloud Enterprise App](screenshots/EnterpriseApp.png)
+
 ### 4. Activity Logs
 - Viewed and interpreted sign-in logs
 - Confirmed MFA challenges were successfully triggered
