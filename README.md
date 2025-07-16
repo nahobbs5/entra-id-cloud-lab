@@ -22,10 +22,22 @@ This project documents a personal cloud-based identity and access management (IA
 - Assigned users to appropriate groups for future app access control
 
   ![Users List](screenshots/UsersList.png)
+
+  ---
+  
   ![Group List](screenshots/GroupList.png)
-  ![Internal Employees](screenshots/InternalEmployees.png)
-  ![External Contractor Group](screenshots/ExternalContractorGroup.png)
-  ![IT Support](screenshots/ITSupportMembers.png)
+
+  ---
+
+  ![Internal Employees](screenshots/Internal%20Employees.png)
+
+  ---
+
+  ![External Contractor Group](screenshots/External%20Contractor%20Group.png)
+
+  ---
+
+  ![IT Support](screenshots/IT%20Support%20Members.png)
   
   
 ### 2. Multi-Factor Authentication (MFA)
