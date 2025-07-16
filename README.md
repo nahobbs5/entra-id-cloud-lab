@@ -60,6 +60,10 @@ This project documents a personal cloud-based identity and access management (IA
 - Viewed and interpreted sign-in logs
 - Confirmed MFA challenges were successfully triggered
 
+### 5. Set Custom Branding
+- Configured a new background image for users
+- Changed the visibility of items in the footer
+
 ## 🧠 Lessons Learned (Tips & Tricks)
 - **Start with users and groups before configuring apps** Organizing users early makes app assignment and testing much smoother.
 - **Group-based assignments are cleaner than per-user** It’s easier to manage access and test policies when apps are tied to groups instead of individual users.
